@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn How to Use GitHub!
+          Learn How to Use GitHub with Teammates!
         </a>
       </header>
     </div>
